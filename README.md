@@ -1,1 +1,3 @@
 # PredictionApp
+
+Prediction of weather
