@@ -11,7 +11,7 @@ import by.htp.prediction.entity.PredictionOfWeather;
 public class PredictionResult {
 
 	public static void main(String[] args) {
-		//для теста
+		//for test
 		Map<Integer, String> map = new LinkedHashMap<Integer, String>();
 		map.put(1, "fair");
 		map.put(2, "fog");
@@ -19,7 +19,7 @@ public class PredictionResult {
 		map.put(4, "rain");
 		map.put(5, "snow");
 
-		//пробуем
+		//trying
 //		Queue<Client> countOfClients = new PriorityQueue<>(10);
 //        for(int i=1; i<11; i++){
 //            countOfClients.add(new Client(i));
